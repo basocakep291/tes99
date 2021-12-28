@@ -19,8 +19,9 @@ https://nontonbola.my.id/stream/korea/kbs1.m3u8
 https://nontonbola.my.id/stream/korea/sbs.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-name="kplus" group-title="Korea",KPLUS
-https://tvlivehometv.xyz/RHS/HOME-TVuseefullmpd.m3u8?channel=kplus
-
+http://kotatas.my.id/usee/chunklist.m3u8?id=kplus&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="" tvg-name="kbsworld" group-title="Korea",KBS WORLD
+http://kotatas.my.id/usee/chunklist.m3u8?id=kbsworld&bandwidth=default&sync=0
 
 
 #EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="tvN" tvg-logo="https://i.ibb.co/hFrZwVC/VSDAD.png" group-title="Korea",TVN
