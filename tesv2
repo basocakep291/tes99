@@ -6,6 +6,8 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" tvg-name="thekpop" group-title="thekpop",THE-KPOP
+
 
 #EXTINF:-1 tvg-logo="" tvg-name="kbsworld" group-title="Korea",Mnet
 http://nontonbola.my.id/stream/korea/mnet.m3u8
